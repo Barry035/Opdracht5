@@ -1,0 +1,81 @@
+
+
+body {  
+    color:rgb(71, 55, 55);
+    background-color: aliceblue;
+    margin:0;
+    font-family: 'Courier New', Courier, monospace;
+}
+.black-border {
+    border: 5px solid rgb(87, 67, 67);
+}
+.container{
+    width:80%;
+    margin:auto;
+   
+}
+
+
+.box1 { 
+    background-color: burlywood;
+    border: 1px chocolate dotted;
+    padding: 20px;
+    margin-top: 20px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.box1 h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: underline;
+    letter-spacing: 0.6em;
+
+}
+
+.box2 {
+    border: 3px brown solid;
+    padding:20px;
+    margin: 20px 0;
+    text-align: center;
+
+}
+
+.fotosreis h2 {
+    text-align: center;
+}
+
+.fotosreis {
+    border: 3px brown solid;
+    padding: 10px;
+    margin:20px 0;
+}
+
+.fotosreis ul {
+    list-style: none;
+    padding:0
+    
+}
+
+    .navfooter {
+    text-align: center;
+    margin: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+li { 
+    display: inline;
+    padding: 8px;
+    
+}
+
+li a.hover {
+    background-color: chocolate;
+}
+
+
+
